@@ -1,3 +1,7 @@
+/*presentado por:
+* Jose Alejandro Idrobo
+* Juan Manuel Idrobo
+*/
 import java.util.Scanner;
 
 public class TrabajoPila {
